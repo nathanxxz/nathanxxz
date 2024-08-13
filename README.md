@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fabricio Nathan 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabricio_nathan1/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabrício-nathan-118437315)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabr%C3%ADcio-nathan-118437315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@xnathan_dev?_t=8oq86BVlvhW&_r=1)
 
 
