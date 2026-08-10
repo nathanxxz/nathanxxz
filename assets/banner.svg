@@ -1,0 +1,57 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050A0E"/>
+      <stop offset="100%" stop-color="#0B1117"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#00FF9C"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <radialGradient id="ring" cx="50%" cy="50%" r="50%">
+      <stop offset="80%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.15"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="260" fill="url(#bg)"/>
+
+  <!-- subtle grid -->
+  <g stroke="#132029" stroke-width="1">
+    <line x1="0" y1="60" x2="900" y2="60"/>
+    <line x1="0" y1="200" x2="900" y2="200"/>
+    <line x1="120" y1="0" x2="120" y2="260"/>
+    <line x1="780" y1="0" x2="780" y2="260"/>
+  </g>
+
+  <!-- HUD ring, right side -->
+  <circle cx="800" cy="130" r="70" fill="url(#ring)"/>
+  <circle cx="800" cy="130" r="55" fill="none" stroke="#00E5FF" stroke-opacity="0.35" stroke-width="1"/>
+  <circle cx="800" cy="130" r="40" fill="none" stroke="#00FF9C" stroke-opacity="0.3" stroke-width="1" stroke-dasharray="4 6"/>
+  <circle cx="800" cy="130" r="4" fill="#00E5FF"/>
+
+  <!-- terminal window chrome -->
+  <rect x="40" y="30" width="820" height="200" rx="10" fill="#0B1117" stroke="#1B2733" stroke-width="1"/>
+  <circle cx="62" cy="52" r="5" fill="#FF5F56"/>
+  <circle cx="80" cy="52" r="5" fill="#FFBD2E"/>
+  <circle cx="98" cy="52" r="5" fill="#27C93F"/>
+  <text x="450" y="56" text-anchor="middle" font-family="monospace" font-size="12" fill="#8B949E">nathanxxz@dev:~</text>
+  <line x1="40" y1="70" x2="860" y2="70" stroke="#1B2733" stroke-width="1"/>
+
+  <!-- content -->
+  <text x="70" y="105" font-family="monospace" font-size="14" fill="#00FF9C">$ system.init()</text>
+  <text x="70" y="130" font-family="monospace" font-size="13" fill="#8B949E">USER: FABRICIO NATHAN</text>
+  <text x="70" y="150" font-family="monospace" font-size="13" fill="#8B949E">ENVIRONMENT: LINUX</text>
+  <text x="70" y="170" font-family="monospace" font-size="13" fill="#8B949E">STATUS: BUILDING...</text>
+
+  <text x="70" y="205" font-family="'Courier New', monospace" font-size="26" font-weight="bold" fill="url(#glow)" filter="url(#softGlow)">FABRICIO NATHAN</text>
+  <text x="420" y="205" font-family="monospace" font-size="14" fill="#E6EDF3">// FULL STACK DEVELOPER</text>
+</svg>
