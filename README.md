@@ -6,7 +6,7 @@
 
 Building real-world software with focus on clean interfaces, solid architecture, and practical problem solving.
 
-[![GitHub](https://img.shields.io/badge/GitHub-nathanxxz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathanxxz)
+[![GitHub](https://img.shields.io/badge/GitHub-nathanxxz-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nathanxxz)
 
 </div>
 
@@ -24,12 +24,12 @@ Currently, I work as a Front-End Developer on an **access control system integra
 
 ## Current Focus
 
-- Software Architecture
-- Full Stack Development
-- React, Java and Spring Boot
-- Flutter and Dart
-- AI-assisted development
-- System Design
+* Software Architecture
+* Full Stack Development
+* React, Java, Spring Boot and FastAPI
+* Flutter and Dart
+* AI-assisted development
+* System Design
 
 ---
 
@@ -84,7 +84,7 @@ Selected to represent coursework at a university event.
 ### Back-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,flask" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask" />
 </p>
 
 ### Mobile
