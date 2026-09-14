@@ -78,19 +78,19 @@ Selected to represent coursework at a university event.
 ### Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,angular,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,angular,html,css,tailwind" />
 </p>
 
 ### Back-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs,nestjs,django" />
 </p>
 
 ### Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
 ### Databases
