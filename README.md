@@ -18,7 +18,7 @@ I'm **Fabricio Nathan**, a Full Stack Developer and Computer Science student.
 
 I like understanding software end-to-end: interface, APIs, backend, database, infrastructure, and architecture. My current focus is improving as a developer by building real projects, studying system design, and exploring AI-assisted development workflows.
 
-Currently, I work as a Front-End Developer on an **access control system integrated with Control iD hardware**, used in a real university environment.
+Currently, I work as a Full Stack Developer on an **access control system integrated with Control iD hardware**, running in production in a real university environment. I also built and shipped a second production system, integrated with the access control platform, used to send institutional documents.
 
 ---
 
@@ -36,11 +36,11 @@ Currently, I work as a Front-End Developer on an **access control system integra
 
 ## Experience
 
-### Front-End Developer — Access Control System
+### Full Stack Developer — Access Control System
 
-Built the front-end for an access control system integrated with **Control iD** hardware.
+Working across the full stack of an access control system integrated with **Control iD** hardware, **in production at the university**. Started as Front-End Developer and grew into a Full Stack role.
 
-**Stack:** React, Vite, Micro Front-End, API Integration, UX/UI
+**Stack:** React, Vite, Micro Front-End, API Integration, UX/UI, Back-End, Hardware Integration
 
 ### Design Management — University Extension Project
 
@@ -56,7 +56,13 @@ Supported students in Object-Oriented Programming and Algorithms courses.
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### Institutional Document Delivery System
+
+A system, **already in production**, for sending institutional documents. It is integrated with the university's access control platform, reusing its users and data.
+
+**Stack:** Full Stack, API Integration, System Integration
 
 ### Natural Disaster Risk Analysis
 
